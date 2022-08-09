@@ -1,2 +1,2 @@
 # portafolio1
-netlify: https://scampodev.netlify.app/
+https://scportafolio.netlify.app/
